@@ -42,7 +42,7 @@ Neo4j Bloom is available in the following formats:
 * Included in link:/startup-program/[Neo4j Startup Program^]
 
 ==== Bloom Resources
-* Developer Guide: https://neo4j.com/blog/graphxr-graph-app-neo4j-desktop/[Neo4j Bloom User Interface Guide^]
+* Developer Guide: https://neo4j.com/docs/bloom-user-guide/current/[Neo4j Bloom User Interface Guide^]
 * Blog post: https://medium.com/neo4j/bloom-ing-marvellous-a2be0c3702bb[Bloom-ing marvellous! Introducing Bloom 1.3^]
 * Product information: https://neo4j.com/bloom/[Neo4j Bloom landing page^]
 
